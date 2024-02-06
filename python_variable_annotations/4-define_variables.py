@@ -7,7 +7,7 @@
 """
 
 
-a = int(1)
+a: int
 pi = 3.14
 i_understand_annotations = True
 school = "Holberton"
