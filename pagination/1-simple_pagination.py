@@ -48,4 +48,3 @@ class Server:
         for row in CSV[first_index:last_index]:
             ROWPages.append(row)
         return ROWPages
-    

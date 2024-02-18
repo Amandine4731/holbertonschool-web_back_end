@@ -58,4 +58,3 @@ class Server:
         }
 
         return Dict
-    

@@ -63,4 +63,3 @@ class Server:
             "total_pages": _total_pages
         }
         return _dict
-    
