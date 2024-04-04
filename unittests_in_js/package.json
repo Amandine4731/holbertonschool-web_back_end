@@ -1,0 +1,19 @@
+{
+    "name": "unittests_in_js",
+    "version": "1.0.0",
+    "description": "Unittests in JS",
+    "main": "0-calcul.js",
+    "dependencies": {
+      "chai": "^4.4.1",
+      "sinon": "^9.2.4"
+    },
+    "devDependencies": {
+      "mocha": "^8.4.0"
+    },
+    "scripts": {
+      "test": "mocha"
+    },
+    "author": "Vaal34",
+    "license": "ISC"
+  }
+  
